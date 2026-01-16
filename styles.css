@@ -667,7 +667,8 @@ nav {
 }
 .teamh{
     text-align:center;
-    text-shadow:0 0 2px aqua;
+    text-shadow:0 0 3px aqua;
+    padding:10px;
 }
 
 .team-section {

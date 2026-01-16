@@ -665,7 +665,10 @@ nav {
     color: #0d0d0f; 
     box-shadow: 0 0 15px rgba(0, 229, 255, 0.4);
 }
-
+.teamh{
+    text-align:center;
+    text-shadow:0 0 2px aqua;
+}
 
 .team-section {
     max-width: 1200px;
